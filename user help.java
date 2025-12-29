@@ -26,3 +26,15 @@ public class userhelp3 {
   }
 }
 for
+
+public class fixbug {
+  public static void main(String[] args) {
+    System.out.println("use is able to fix the bugs
+  }
+}
+
+public class hotfix {
+  public static void main(String[] args) {
+    System.out.println("user is able to fix the hotfix issues in PROD env")
+  }
+}
