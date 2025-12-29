@@ -26,3 +26,9 @@ public class userhelp3 {
   }
 }
 for
+
+public class fixbug {
+  public static void main(String[] args) {
+    System.out.println("use is able to fix the bugs
+  }
+}
